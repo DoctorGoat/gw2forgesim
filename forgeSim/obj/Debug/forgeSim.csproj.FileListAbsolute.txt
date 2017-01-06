@@ -1,0 +1,8 @@
+c:\proj\gw2test\forgeSim\forgeSim\bin\Debug\forgeSim.exe.config
+c:\proj\gw2test\forgeSim\forgeSim\bin\Debug\forgeSim.exe
+c:\proj\gw2test\forgeSim\forgeSim\bin\Debug\forgeSim.pdb
+c:\proj\gw2test\forgeSim\forgeSim\bin\Debug\Newtonsoft.Json.dll
+c:\proj\gw2test\forgeSim\forgeSim\bin\Debug\Newtonsoft.Json.xml
+c:\proj\gw2test\forgeSim\forgeSim\obj\Debug\forgeSim.csprojResolveAssemblyReference.cache
+c:\proj\gw2test\forgeSim\forgeSim\obj\Debug\forgeSim.exe
+c:\proj\gw2test\forgeSim\forgeSim\obj\Debug\forgeSim.pdb
